@@ -1,0 +1,11 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],"remote.localPortHost": "all interfaces ",
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
